@@ -6,6 +6,12 @@
 
 ---
 
+## 📹 Working Demo
+
+[▶️ Click here to watch the working demo video](./AI%20Powered%20Document%20OCR%20Platform.mp4)
+
+---
+
 ## 🚀 Overview
 
 This platform delivers an end-to-end solution for Optical Character Recognition (OCR), featuring:
